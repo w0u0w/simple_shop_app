@@ -31,7 +31,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          'It\' is manga shop',
+          'It\'s manga shop',
         ),
       ),
     );
